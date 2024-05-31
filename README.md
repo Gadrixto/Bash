@@ -1,2 +1,2 @@
-# prueba
-Primer ejercicio subidoen github, pasos para hacer una chocotorta 🍰
+Bash exercices
+Here, we can see all bash exercices _👯
